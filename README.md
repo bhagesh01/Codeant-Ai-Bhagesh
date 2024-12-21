@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CodeAnt AI 🐜🤖
 
-## Getting Started
+CodeAnt AI is a cutting-edge web application designed to revolutionize coding workflows. Built using modern web technologies, it delivers seamless user experience and aesthetic appeal while ensuring scalability and maintainability.
 
-First, run the development server:
+---
 
+## 🌟 Features
+
+- **Dynamic UI**: Sleek and responsive design using [TailwindCSS](https://tailwindcss.com/).
+- **Smooth Animations**: Enhanced interactivity with [Animate.css](https://animate.style/).
+- **Elegant Icons**: Beautiful and consistent icons with [Lucide React](https://lucide.dev/).
+- **Effortless Routing**: Simplified navigation with [Next.js Routing](https://nextjs.org/docs/routing/introduction).
+- **Framework Power**: Built on the powerful [Next.js](https://nextjs.org/) framework for server-side rendering and API handling.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Next.js**: For server-rendered React and optimized performance.
+- **TailwindCSS**: To style the app with utility-first CSS.
+- **Animate.css**: For eye-catching animations.
+- **Lucide React**: For a library of simple and consistent icons.
+- **Next.js Routing**: To manage client and server-side routing effortlessly.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Prerequisites
+Make sure you have the following installed:
+- Node.js (>= 16.x)
+- npm or yarn
+- Git
+
+### 2️⃣ Clone the Repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/bhagesh01/Codeant-Ai-Bhagesh.git
+cd codeant-ai
