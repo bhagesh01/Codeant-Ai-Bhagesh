@@ -34,7 +34,7 @@ const Home = () => {
             {`Please click the provided buttons to see the particular UI Pages.`}
           </p>
 
-          <div className="flex flex-wrap flex-col items-center justify-center lg:justify-start gap-4 animate__animated animate__fadeInLeft">
+          <div className="flex flex-wrap flex-col md:flex-row items-center justify-center lg:justify-start gap-4 animate__animated animate__fadeInLeft">
             <Link href={"/dashboard"}>
               <Button className="w-full px-9 sm:w-fit font-bold group/arrow flex items-center">
                 Get Dashboard
@@ -55,7 +55,7 @@ const Home = () => {
               variant="secondary"
               className="w-fit px-14 sm:w-auto font-bold"
             >
-              <Link href="/signin">See on Github</Link>
+              <Link href="https://github.com/bhagesh01/Codeant-Ai-Bhagesh/tree/main" target="_blank">See on Github</Link>
             </Button>
           </div>
         </div>
