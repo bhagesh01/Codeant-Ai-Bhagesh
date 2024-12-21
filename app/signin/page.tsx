@@ -10,17 +10,12 @@ const Page=()=>{
   return (
     <div className="min-h-screen bg-[#FAFAFA] flex">
       {/* Left side - Hero/Branding */}
-      <div className="hidden lg:flex lg:w-1/2 p-12 relative overflow-hidden">
+      <div className="hidden lg:flex lg:w-1/2 p-12 relative overflow-hidden bg-[#FFFFFF]">
 
         <div className="absolute inset-0 m-auto -top-10 w-[70%] h-[60%]  px-8">
-
-
-          {/* top div for left side section */}
           <TopDiv/>
-{/* bottom div for left side section */}
       <BottomDiv/>
         </div>
-        {/* Background logo pattern left section */}
 
           <img src='./subtract.svg' alt='gola' className='absolute bottom-0 left-0'/>
 
